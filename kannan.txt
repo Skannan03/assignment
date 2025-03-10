@@ -1,0 +1,1 @@
+Hello, this is a sample text file.Python makes file handling easy.Appending new data to the file.
